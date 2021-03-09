@@ -1,4 +1,4 @@
-## The Movie Picker Project
+# The Movie Picker Project
 
 ## Table of contents
 * [General info](#general-info)
