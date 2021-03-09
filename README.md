@@ -10,6 +10,7 @@ The MoviePicker is a project created for the needs of evaluation in a technical 
 
 ## Technologies
 Project is created with:
+* Javascript
 * ReactJs
 * CSS
 * Material UI Framework
